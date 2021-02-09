@@ -22,3 +22,8 @@
 	path = stesi/stesi_mrp
 	url = git@github.com:stesi/stesi_mrp.git
 	branch = 14.0
+
+[submodule "stesi/stesi_mrp_app"]
+	path = stesi/stesi_mrp_app
+	url = git@github.com:stesi/stesi_mrp_app.git
+	branch = 14.0
