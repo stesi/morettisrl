@@ -42,3 +42,8 @@
 	path = stesi/stesi_sales
 	url = git@github.com:stesi/stesi_sales.git
 	branch = 14.0
+
+[submodule "stesi/stesi_sequence_manager"]
+	path = stesi/stesi_sequence_manager
+	url = git@github.com:stesi/stesi_sequence_manager.git
+	branch = 14.0
