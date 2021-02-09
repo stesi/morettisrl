@@ -52,3 +52,8 @@
 	path = stesi/stesi_sheet_full_width
 	url = git@github.com:stesi/stesi_sheet_full_width.git
 	branch = 14.0
+
+[submodule "stesi/stesi_so_from_mo"]
+	path = stesi/stesi_so_from_mo
+	url = git@github.com:stesi/stesi_so_from_mo.git
+	branch = 14.0
