@@ -1,0 +1,4 @@
+[submodule "stesi/base_report_to_printer"]
+	path = stesi/base_report_to_printer
+	url = git@github.com:stesi/base_report_to_printer.git
+	branch = main
