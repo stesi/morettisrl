@@ -12,3 +12,8 @@
 	path = stesi/printer_zpl2
 	url = git@github.com:stesi/printer_zpl2.git
 	branch = main
+
+[submodule "stesi/stesi_listview_sticky_header"]
+	path = stesi/stesi_listview_sticky_header
+	url = git@github.com:stesi/stesi_listview_sticky_header.git
+	branch = 14.0
