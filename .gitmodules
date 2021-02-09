@@ -57,3 +57,8 @@
 	path = stesi/stesi_so_from_mo
 	url = git@github.com:stesi/stesi_so_from_mo.git
 	branch = 14.0
+
+[submodule "stesi/stesi_stock"]
+	path = stesi/stesi_stock
+	url = git@github.com:stesi/stesi_stock.git
+	branch = 14.0
