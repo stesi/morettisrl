@@ -47,3 +47,8 @@
 	path = stesi/stesi_sequence_manager
 	url = git@github.com:stesi/stesi_sequence_manager.git
 	branch = 14.0
+
+[submodule "stesi/stesi_sheet_full_width"]
+	path = stesi/stesi_sheet_full_width
+	url = git@github.com:stesi/stesi_sheet_full_width.git
+	branch = 14.0
