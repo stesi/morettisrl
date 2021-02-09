@@ -7,3 +7,8 @@
 	path = stesi/merge_sale_order
 	url = git@github.com:stesi/merge_sale_order.git
 	branch = 14.0
+
+[submodule "stesi/printer_zpl2"]
+	path = stesi/printer_zpl2
+	url = git@github.com:stesi/printer_zpl2.git
+	branch = main
