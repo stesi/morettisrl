@@ -2,3 +2,8 @@
 	path = stesi/base_report_to_printer
 	url = git@github.com:stesi/base_report_to_printer.git
 	branch = main
+
+[submodule "stesi/merge_sale_order"]
+	path = stesi/merge_sale_order
+	url = git@github.com:stesi/merge_sale_order.git
+	branch = 14.0
