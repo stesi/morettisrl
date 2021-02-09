@@ -32,3 +32,8 @@
 	path = stesi/stesi_mrp_geco
 	url = git@github.com:stesi/stesi_mrp_geco.git
 	branch = main
+
+[submodule "stesi/stesi_mrp_wo_subcontracting"]
+	path = stesi/stesi_mrp_wo_subcontracting
+	url = git@github.com:stesi/stesi_mrp_wo_subcontracting.git
+	branch = 14.0
