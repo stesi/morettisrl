@@ -107,3 +107,8 @@
 	path = stesi/merge_sale_order_geco
 	url = git@github.com:stesi/merge_sale_order_geco.git
 	branch = main
+
+[submodule "stesi/odoo_email_cc_bcc"]
+	path = stesi/odoo_email_cc_bcc
+	url = git@github.com:stesi/odoo_email_cc_bcc.git
+	branch = 14
