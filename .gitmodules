@@ -117,3 +117,8 @@
 	path = stesi/report_py3o
 	url = git@github.com:stesi/report_py3o.git
 	branch = main
+
+[submodule "stesi/stesi-mrp_py3o_reports"]
+	path = stesi/stesi-mrp_py3o_reports
+	url = git@github.com:stesi/stesi-mrp_py3o_reports.git
+	branch = 14.0
