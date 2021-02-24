@@ -112,3 +112,8 @@
 	path = stesi/odoo_email_cc_bcc
 	url = git@github.com:stesi/odoo_email_cc_bcc.git
 	branch = 14
+
+[submodule "stesi/report_py3o"]
+	path = stesi/report_py3o
+	url = git@github.com:stesi/report_py3o.git
+	branch = main
