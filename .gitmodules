@@ -117,3 +117,8 @@
 	path = stesi/stesi-mrp_py3o_reports
 	url = git@github.com:stesi/stesi-mrp_py3o_reports.git
 	branch = 14.0
+
+[submodule "stesi/ks_list_view_manager"]
+	path = stesi/ks_list_view_manager
+	url = git@github.com:stesi/ks_list_view_manager.git
+	branch = 14
