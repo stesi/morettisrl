@@ -127,3 +127,8 @@
 	path = stesi/stesi_geco_subcontracting
 	url = git@github.com:stesi/stesi_geco_subcontracting.git
 	branch = main
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
