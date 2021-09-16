@@ -152,3 +152,8 @@
 	path = stesi/l10n-italy_missing
 	url = git@github.com:stesi/l10n-italy_missing.git
 	branch = main
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
