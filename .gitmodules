@@ -152,3 +152,8 @@
 	path = stesi/l10n-italy
 	url = git@github.com:stesi/l10n-italy.git
 	branch = 14.0
+
+[submodule "stesi/stesi_accounting"]
+	path = stesi/stesi_accounting
+	url = git@github.com:stesi/stesi_accounting.git
+	branch = 14.0
