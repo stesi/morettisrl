@@ -157,3 +157,13 @@
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 14.0
+
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 14.0
+
+[submodule "stesi/stesi_utilities"]
+	path = stesi/stesi_utilities
+	url = git@github.com:stesi/stesi_utilities.git
+	branch = 14.0
