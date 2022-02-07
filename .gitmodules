@@ -83,11 +83,6 @@
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
 
-[submodule "OCA/intrastat-extrastat"]
-	path = OCA/intrastat-extrastat
-	url = git@github.com:OCA/intrastat-extrastat.git
-	branch = 14.0
-
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
