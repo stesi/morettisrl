@@ -83,11 +83,6 @@
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
 
-[submodule "stesi/intrastat-extrastat"]
-	path = stesi/intrastat-extrastat
-	url = git@github.com:stesi/intrastat-extrastat.git
-	branch = 14.0
-
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
@@ -138,11 +133,6 @@
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 14.0
 
-[submodule "stesi/intrastat-extrastat"]
-	path = stesi/intrastat-extrastat
-	url = git@github.com:stesi/intrastat-extrastat.git
-	branch = 14.0
-
 [submodule "OCA/account-financial-reporting"]
 	path = OCA/account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
@@ -166,4 +156,9 @@
 [submodule "stesi/stesi_utilities"]
 	path = stesi/stesi_utilities
 	url = git@github.com:stesi/stesi_utilities.git
+	branch = 14.0
+
+[submodule "OCA/intrastat-extrastat"]
+	path = OCA/intrastat-extrastat
+	url = git@github.com:OCA/intrastat-extrastat.git
 	branch = 14.0
