@@ -162,3 +162,8 @@
 	path = OCA/intrastat-extrastat
 	url = git@github.com:OCA/intrastat-extrastat.git
 	branch = 14.0
+
+[submodule "ingegniamo/dashboard_ninja"]
+	path = ingegniamo/dashboard_ninja
+	url = git@github.com:ingegniamo/dashboard_ninja.git
+	branch = 14.0
