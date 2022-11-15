@@ -167,3 +167,8 @@
 	path = ingegniamo/dashboard_ninja
 	url = git@github.com:ingegniamo/dashboard_ninja.git
 	branch = 14.0
+
+[submodule "ingegniamo/website_left_blocks_snippet"]
+	path = ingegniamo/website_left_blocks_snippet
+	url = git@github.com:ingegniamo/website_left_blocks_snippet.git
+	branch = 14.0
