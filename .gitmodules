@@ -172,3 +172,8 @@
 	path = ingegniamo/website_left_blocks_snippet
 	url = git@github.com:ingegniamo/website_left_blocks_snippet.git
 	branch = 14.0
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 14.0
