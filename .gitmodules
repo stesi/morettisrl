@@ -177,3 +177,13 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
+
+[submodule "ingegniamo/ob_chatter_position"]
+	path = ingegniamo/ob_chatter_position
+	url = git@github.com:ingegniamo/ob_chatter_position.git
+	branch = 14.0
+
+[submodule "ingegniamo/stesi_geco_mo_ddt"]
+	path = ingegniamo/stesi_geco_mo_ddt
+	url = git@github.com:ingegniamo/stesi_geco_mo_ddt.git
+	branch = 14.0
