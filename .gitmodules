@@ -187,3 +187,8 @@
 	path = ingegniamo/stesi_geco_mo_ddt
 	url = git@github.com:ingegniamo/stesi_geco_mo_ddt.git
 	branch = 14.0
+
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 14.0
