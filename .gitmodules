@@ -192,3 +192,8 @@
 	path = OCA/bank-payment
 	url = git@github.com:OCA/bank-payment.git
 	branch = 14.0
+
+[submodule "ingegniamo/stesi_auto_payment_reconciliation"]
+	path = ingegniamo/stesi_auto_payment_reconciliation
+	url = git@github.com:ingegniamo/stesi_auto_payment_reconciliation.git
+	branch = 14.0
