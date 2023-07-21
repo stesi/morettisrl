@@ -207,3 +207,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_registration_net_payment_fix"]
+	path = ingegniamo/account_registration_net_payment_fix
+	url = git@github.com:ingegniamo/account_registration_net_payment_fix.git
+	branch = 14.0
