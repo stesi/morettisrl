@@ -222,3 +222,8 @@
 	path = OCA/account-closing
 	url = git@github.com:OCA/account-closing.git
 	branch = 14.0
+
+[submodule "OCA/delivery-carrier"]
+	path = OCA/delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 14.0
